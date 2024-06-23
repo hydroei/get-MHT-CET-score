@@ -5,6 +5,10 @@ login to cet 24-25 --> click on score card --> select pcm/pcb --> then either pr
 
 
 
-https://github.com/hydroei/get-MHT-CET-score/assets/169121210/080f8c61-011e-4c01-a912-a21fdd0d917b
+
+https://github.com/hydroei/get-MHT-CET-score/assets/169121210/595073d8-b54a-4a68-b37e-cbc1d2b76de3
+
+
+
 
 Thanks CHATGPT for converting the python code int PHP
