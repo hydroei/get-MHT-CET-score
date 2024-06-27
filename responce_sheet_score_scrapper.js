@@ -1,6 +1,4 @@
-//physics --> 2-51
-//chemistry --> 52-101
-//maths --> 102 to 151
+
 let phy=0
 let chem=0
 let maths=0
